@@ -111,7 +111,7 @@ spec:
       kind: KafkaUser
       name: kafkausers.kafka.banzaicloud.io
       version: v1alpha1
-  description: "The Banzai Cloud Kafka operator is a Kubernetes operator to automate\
+  description: "The Banzai Cloud Kafka operator - Kubernetes operator to automate\
     \ provisioning, management, autoscaling and operations of [Apache Kafka](https://kafka.apache.org)\
     \ clusters deployed to K8s.\n\n## Overview\n\nApache Kafka is an open-source distributed\
     \ streaming platform, and some of the main features of the **Kafka-operator**\
