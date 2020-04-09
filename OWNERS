@@ -1,5 +1,12 @@
 approvers:
-  - ssimk0
-  - J0zi
+	- ssimk0
+	- J0zi
+	- dmesser
+reviewers:
+	- ssimk0
+	- J0zi
+	- dmesser
 emeritus:
-  - ssimk0
+	- ssimk0
+	- J0zi
+	- dmesser
