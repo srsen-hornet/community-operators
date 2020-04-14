@@ -30,6 +30,7 @@ jobs:
     script:
     # Since travis conditionals can't operate on bash scripts, the first script
     # line will check whether only scripts have been updated, and if so use
+    #
     # the ripsaw operator as an operator to test script correctness.
     - |-
       if ! git diff --name-only $TRAVIS_COMMIT_RANGE | grep -q '\.yaml'; then \
