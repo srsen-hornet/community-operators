@@ -36,7 +36,7 @@ spec:
   description: 'Cassandra operator built by Instaclustr to allow creating and managing
     Cassandra clusters.
 
-    ## About this Operator
+    ## About this 1 Operator
 
     This operator supports custom configuration, handling scale up and down, supports
     monitoring autodiscovery, and provides backup capabilities.
